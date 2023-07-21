@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven S Kim, MS in MIS"
+title                    : "Steven S Kim, MS in IS"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
