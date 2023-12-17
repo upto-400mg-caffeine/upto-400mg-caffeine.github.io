@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven S Kim, MS in IS"
+title                    : "Seongjin Kim"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Steven S Kim"
   avatar           : "profile.png"
   bio              : "Researcher"
-  location         : "Incheon, KR"
+  location         : "Seoul, KR"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=rf7SyZAAAAAJ&hl=en"
