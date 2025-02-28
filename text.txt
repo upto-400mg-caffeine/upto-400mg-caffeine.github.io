@@ -1,6 +1,6 @@
 1. Introduce yourself and your background. 
 
-*"Thanks for having me. My name is Seongjin Kim, and I’m currently a PhD student in Business Administration with a focus on Computer Information Systems at Louisiana Tech University. 
+*"Thanks for having me. My name is , and I’m currently a PhD student in Business Administration with a focus on Computer Information Systems at University. 
 
 I’ve been studying and working in the IS field for quite a while. I have two master’s degrees—one in Information Systems from the University of Memphis and another in Management Information Systems from Kookmin University. Over the years, I’ve done research on topics like trust in AI, cybersecurity, and IT adoption, and I’ve had my work published in journals like The Data Base for Advances in Information Systems and conferences like HICSS. 
 
