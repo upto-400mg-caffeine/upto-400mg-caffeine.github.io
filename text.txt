@@ -2,9 +2,9 @@
 
 *"Thanks for having me. My name is , and I’m currently a PhD student in Business Administration with a focus on Computer Information Systems at University. 
 
-I’ve been studying and working in the IS field for quite a while. I have two master’s degrees—one in Information Systems from the University of Memphis and another in Management Information Systems from Kookmin University. Over the years, I’ve done research on topics like trust in AI, cybersecurity, and IT adoption, and I’ve had my work published in journals like The Data Base for Advances in Information Systems and conferences like HICSS. 
+I’ve been studying and working in the IS field for quite a while. I have two master’s degrees—one in Information Systems from the University  and another in Management Information Systems from  University. Over the years, I’ve done research on topics like trust in AI, cybersecurity, and IT adoption, and I’ve had my work published in journals like The Data Base for Advances in Information Systems and conferences like HICSS. 
 
-Besides research, I’ve worked as a researcher at Kookmin University and the University of Arkansas, where I applied data science techniques to consumer behavior research. I’ve also managed IT infrastructure, handled data analytics, and worked on various research projects, which have given me a strong mix of academic and practical experience."* 
+Besides research, I’ve worked as a researcher at University and the University of , where I applied data science techniques to consumer behavior research. I’ve also managed IT infrastructure, handled data analytics, and worked on various research projects, which have given me a strong mix of academic and practical experience."* 
 
  
 
